@@ -1,5 +1,5 @@
-# Create your own smart Ukulele Chord Checker
-This project contains the source code to create your own ukulele chord checker using Cartesiam's NanoEdge AI Library.
+# Create your own smart italian coffee watcher
+This project contains the source code to create your own smart italian coffee watcher using Cartesiam's NanoEdge AI Library.
 Here is the [link to the tutorial](https://cartesiam-neai-docs.readthedocs-hosted.com/tutorials/coffee/coffee.html).
 
 ## What is NanoEdge AI Library ?
